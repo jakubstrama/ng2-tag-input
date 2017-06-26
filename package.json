@@ -1,5 +1,5 @@
 {
-  "name": "ng2-tag-input",
+  "name": "@lkww/ng2-tag-input",
   "version": "1.3.5",
   "description": "Tag Input component for Angular",
   "scripts": {
